@@ -22,4 +22,4 @@ Millainen rooli on moraalittomalla poliittisella kalkyylillämme tulevaisuudessa
 
 Ne ukrainalaiset, jotka eivät alistu Putinin regiimiin, tullaan tallomaan maan rakoon Ukrainassa, ja länteen pakoon päässeet tulevat elämään pakolaiselämää. Heitä tullaan myös käyttämään poliittisen liikehdinnän välikappaleina ja propagandan apuvälineinä, vailla moraalia, kulloisenkin kuvitellun kansallisen edun nimissä. He eivät kuitenkaan unohda, mitä heidän maallensa tapahtui, eivätkä sitä, ketkä antoivat sen tapahtua, emmekä me voi heitä siitä syyttää. Moraaliton toimintamme (tai toimimattomuutemme) synnyttää vihaa meitä kohtaan, ja se synnyttää myös vihaa tavallisia venäläisiä ja valkovenäläisiä ihmisiä kohtaan, Ukrainaan jääviä kohtaan. Se on turhaa vihaa — vihaa joka voitaisiin vielä välttää ja vihaa, joka toimii vain polttoaineena uusiin, entistä suurempiin ja pitkäkestoisempiin tragedioihin.
 
-En olisi uskonut kirjoittavani tosissani outoa moraalisaarnaa vuonna 2022, mutta näemmä niin kävi.
+En olisi uskonut ränttääväni tosissani outoa moraalisaarnaa vuonna 2022, mutta näemmä niin kävi.
