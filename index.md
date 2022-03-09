@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Ajatuksia ja anteeksipyyntö (2022-02-09)
 
-You can use the [editor on GitHub](https://github.com/jihuu/puhpah/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Venäjän asevoimat hyökkäsivät itsenäiseen Ukrainaan 24.2. samalla, kun venäjän edustajan johtamassa YK:n turvallisuusneuvostossa puhuttiin vielä rauhallisen de-eskalaation mahdollisuudesta.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ukrainan sota ahdistaa monesta syystä. Yksi suurimmista ahdistuksen aiheista on, että viime päivien aikana minusta on alkanut näyttää selvältä, että länsi tulee hylkäämään Ukrainan ja antaa Venäjälle vapaat kädet toimia parhaaksi katsomallaan tavalla. Olemme kyllä sanktioineet Venäjää, ja taloudellisesti maa on mennyt nopeasti huonoon jamaan ainakin länsimittareilla arvioituna. Olen kuitenkin varma, että kun Venäjä voittaa Ukrainassa ja saa tahtonsa lävitse, sanktiot tulevat tipahtelemaan pois pikkuhiljaa noin viiden vuoden kuluessa.
 
-### Markdown
+Toivon olevani erittäin väärässä, mutta pelkään että en ole, ja siksi on tarve kirjoittaa nämä ajatukseni auki. Tämä on jo etukäteen esitetty anteeksipyyntö Ukrainalle ja ukrainalaisille. Olen pahoillani, että emme kyenneet pistämään kovaa kovaa vastaan, vaan päädyimme peloissamme toistamaan historialliset virheemme jälleen uudelleen.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jihuu/puhpah/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [Moraalista](moraali) (2022-02-08)
+- [Unohduksesta](unohdus) (2022-02-09)
