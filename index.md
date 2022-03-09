@@ -7,5 +7,5 @@ Ukrainan sota ahdistaa monesta syystä. Yksi suurimmista ahdistuksen aiheista on
 Toivon olevani erittäin väärässä, mutta pelkään että en ole, ja siksi on tarve kirjoittaa nämä ajatukseni auki. Tämä on jo etukäteen esitetty anteeksipyyntö Ukrainalle ja ukrainalaisille. Olen pahoillani, että emme kyenneet pistämään kovaa kovaa vastaan, vaan päädyimme peloissamme toistamaan historialliset virheemme jälleen uudelleen.
 
 
-- [Moraalista](moraali) (2022-02-08)
-- [Unohduksesta](unohdus) (2022-02-09)
+- [Moraalista](https://jihuu.github.io/puhpah/moraali) (2022-02-08)
+- [Unohduksesta](https://jihuu.github.io/puhpah/unohdus) (2022-02-09)
