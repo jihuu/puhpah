@@ -27,26 +27,26 @@ On mielestäni selvää, että seuraavan 5+ vuoden kuluessa Suomeen kohdistuu mo
 
 Jos taas mietitään 0-5 vuoden aikaskaalaa, joudutaan pohtimaan sitä, mikä Venäjän 2000-luvun aikana kehittämän aggressiivisen sisä- ja ulkopolitiikan päätepiste tulee olemaan. Siispä kysyn itseltäni lisää kysymyksiä:
 
-7. Sallitaanko Venäjälle voitto Ukrainasta, tarkoittipa se sitten koko Ukrainan tai vain sen itäisten ja eteläisten osien liittämistä Venäjään?
+7.
+ * Sallitaanko Venäjälle voitto Ukrainasta, tarkoittipa se sitten koko Ukrainan tai vain sen itäisten ja eteläisten osien liittämistä Venäjään?
 
-8a. Jos vastaus kysymykseen 7 on **"kyllä"** , lopettaako Venäjä aggressionsa ikiajoiksi (tai edes seuraaviksi 0-5 vuodeksi) siihen?
+8.
+ * (a) Jos vastaus kysymykseen 7 on **"kyllä"** , lopettaako Venäjä aggressionsa ikiajoiksi (tai edes seuraaviksi 0-5 vuodeksi) siihen?
+ * (b) Jos vastaus kysymykseen 7 on **"ei"**, ollaanko sen estämistä valmiit yrittämään hinnalla millä hyvänsä?
 
-8b. Jos vastaus kysymykseen 7 on **"ei"**, ollaanko sen estämistä valmiit yrittämään hinnalla millä hyvänsä?
+9. Aiheuttaako Venäjä suoraan tai välillisesti eksistenssiuhkan Suomelle tai Suomen viitekehykselle (EU, länsimainen arvoyhteisö) skenaariossa 8(a)? Entä 8(b)?
 
-9. Aiheuttaako Venäjä suoraan tai välillisesti eksistenssiuhkan Suomelle tai Suomen viitekehykselle (EU. länsimainen arvoyhteisö) skenaariossa 8a? Entä 8b?
-
-10a. Jos vastaus edelliseen on **"kyllä"**, voidaanko Venäjän Suomeen kohdistamat eksistenssiuhat _välttää_ pelkästään Suomen toimilla?
-
-10b. Voidaanko Suomeen kohdistuvat eksistenssiuhat purkaa ilman Suomen osallisuutta?
-
-10c. Edellyttääkö eksistenssiuhkien purkaminen suoria sotilaallisia operaatioita?
+10.
+ * (a) Jos vastaus edelliseen on **"kyllä"**, voidaanko Venäjän Suomeen kohdistamat eksistenssiuhat _välttää_ pelkästään Suomen toimilla?
+ * (b) Voidaanko Suomeen kohdistuvat eksistenssiuhat purkaa ilman Suomen osallisuutta?
+ * (c) Edellyttääkö eksistenssiuhkien purkaminen suoria sotilaallisia operaatioita?
 
 
 ## Jotkut vain ovat syntyneet kusipäiksi
 
 Mä nään asian niin, että jos Venäjän nykyhallinto luikkii tavalla tai toisella Ukrainasta kuin koira veräjästä — tapahtuipa se jotakin liennyttävää off-ramppia pitkin tai sitten tuhoamalla suvereeni Ukraina ja iso osa ukrainalaisista —, se ei todellakaan tyydy siihen, koska länsimaat antoivat Ukrainan tuhon tapahtua, ja ne tulevat antamaan sen tapahtua yhä uudelleen, ja uudelleen, ja uudelleen, kuten ovat antaneet sen tapahtua koko 2000-luvun ajan: Tsetsenia, Syyria, Krimi + Donbas + Luhansk, … Ukraina 2022 on vain pieni lisäys Venäjälle sallittujen asioiden listaan. Listan seuraava bullet point voi olla Suomi 2024.
 
-Vastaan siis kysymykseen 7 “ei”, koska vastaan kysymykseen 8a “ei”, ja koska vastaus kysymykseen 9 olisi tässä hypoteettisessa 8a-skenaariossa esimerkiksi se, että EU ja länsi olisi muuttunut perustavanlaatuisesti, meidän arvomaailmamme olisi järkähtänyt dramaattisesti. Vaikka Suomi jatkaisi valtiona olemassaoloaan, ja vaikka Venäjä ei edes hyökkäisi tänne, kuuluisimme skenaarion 8a jälkeisessä maailmassa sellaiseen yhteisöön (EU), joka antoi todella pahojen asioiden tapahtua Euroopassa 2022 vain siksi, että sitä peloteltiin yhden miehen ja tämän kääpiövaltion toimesta.
+Vastaan siis kysymykseen 7 **“ei”**, koska vastaan kysymykseen 8(a) **“ei”**, ja koska vastaus kysymykseen 9 olisi tässä hypoteettisessa skenaariossa esimerkiksi se, että EU ja länsi olisi muuttunut perustavanlaatuisesti, meidän arvomaailmamme olisi järkähtänyt dramaattisesti. Vaikka Suomi jatkaisi valtiona olemassaoloaan, ja vaikka Venäjä ei edes hyökkäisi tänne, kuuluisimme skenaarion 8a jälkeisessä maailmassa sellaiseen yhteisöön (EU), joka antoi todella pahojen asioiden tapahtua Euroopassa 2022 vain siksi, että sitä peloteltiin yhden miehen ja tämän kääpiövaltion toimesta.
 
 Ei ole mitään takeita siitä, mitä se sama mies (tai joku muu mies — miksi ne ovatkin aina miehiä) keksii seuraavaksi vaatia, kiristää ja pelotella. On vain takeet siitä, että me vastaamme pelotteluun samalla tavalla kuin olemme koko 2000-luvun ajan siihen vastanneet: pelolla. Mitä arvoa on yhteiskuntasopimuksella tai unioneilla tai poliittis-filosofisilla ideaaleilla, joita ei uskalleta pitää voimassa, joiden takana ei uskalleta seistä ja joita ei uskalleta puolustaa?
 
