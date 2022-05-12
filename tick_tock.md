@@ -1,6 +1,7 @@
 # TICK... TOCK...
 
 Can we please already fast-forward to the point in time where the venerable Mr. Putin tries to launch the nukes (which, unbeknownst to him, and like so many other parts of the venerable Mr. Putin, are not in functioning condition), and some low-pay-grade bean counter musses his remaining hair, or some stewardess, with a family and a dream of a future that involves existence, puts an extra lump of sugar in his tea.
+
 Because we all know that's exactly what is coming.
 
 ## TICK... TOCK...
@@ -9,13 +10,13 @@ We all know that's exactly what is coming, because it has already come. It has c
 
 We know that only after the venerable Mr. Putin joins the Farm Upstate, and only after his three-ring circus scrambles for the floorboards, only then can we start mourning; only then can we start burying the dead; only then can we start rebuilding; only then can we reach out to embrace our Russian brethren and sistren, and only then are we allowed to speak plainly to them of their future as fellow human beings who deserve inclusive normalcy instead of decades and centuries of grandiose, vile, and psychopathically-motivated regimes with dim-witted plots straight out of bad cold-war comic books.
 
-We know that only after the venerable Mr. Putin joins the Farm Upstate, and only after his three-ring circus scrambles for the floorboards, only then can we swear "never again", once again. Only then, and even then only for the shortest of whiles, can we understand those words again. Only then, and even then only for the shortest of whiles, can we behave in accordance to those words again. Only then, and even then only for the shortest of whiles - but even the shortest of whiles will still be quantitatively and qualitatively superior to Nothing. And Nothing is exactly the kind of all-compassing everything that the immoral, inhumane nihilists of the venerable Mr. Putin's kind are offering to the mankind.
+We know that only after the venerable Mr. Putin joins the Farm Upstate, and only after his three-ring circus scrambles for the floorboards, only then can we swear "never again", once again. Only then, and even then only for the shortest of whiles, can we understand those words again. Only then, and even then only for the shortest of whiles, can we behave in accordance with those words again. Only then, and even then only for the shortest of whiles - but even the shortest of whiles will still be quantitatively and qualitatively superior to Nothing. And Nothing is exactly the kind of all-encompassing everything that the immoral, inhumane nihilists of the venerable Mr. Putin's kind are offering to mankind.
 
 ## TICK... TOCK...
 
 We all know that's exactly what is coming, because it has already come. It has come time and time again.
 
-The inhumane nihilist has tried to bring us his offering of Nothing many times in our past, and we have always rejected it. The offering of the inhumane nihilist will always be rejected by the mankind, because nihilism and Nothingness is not the essence of human being.
+The inhumane nihilist has tried to bring us his offering of Nothing many times in our past, and we have always rejected it. The offering of the inhumane nihilist will always be rejected by mankind, because nihilism and Nothingness is not the essence of human being.
 However, the inhumane nihilist will rise again, time and time again. Like a clockwork soldier, the inhumane nihilist will perform his movements of Nothing-offering, only to be rejected time and time again. This is because the inhumane nihilist can never understand the essence of human being. The inhumane nihilist thinks that by misleading us he can mislead his fate, and that by exsanguinating us he can exsanguinate the essence of human being.
 
 In the end, the inhumane nihilist deserves our pity, because he did not choose to break his humanity. He had it broken for him from the beginning, and his malfunctioning humanity makes him offer us Nothing, time and time again.
