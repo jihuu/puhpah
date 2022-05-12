@@ -10,3 +10,5 @@ Toivon olevani erittäin väärässä, mutta pelkään että en ole, ja siksi on
 - [Moraalista](https://jihuu.github.io/puhpah/moraali) (2022-03-08)
 - [Unohduksesta](https://jihuu.github.io/puhpah/unohdus) (2022-03-09)
 - [Sodan tuulet](https://jihuu.github.io/puhpah/sodan_tuulet) (2022-03-18)
+- [NATO — otan](https://jihuu.github.io/puhpah/nato_otan) (2022-04-30)
+- 
