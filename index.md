@@ -11,3 +11,4 @@ Toivon olevani erittäin väärässä, mutta pelkään että en ole, ja siksi on
 - [Unohduksesta](https://jihuu.github.io/puhpah/unohdus) (2022-03-09)
 - [Sodan tuulet](https://jihuu.github.io/puhpah/sodan_tuulet) (2022-03-18)
 - [NATO — otan](https://jihuu.github.io/puhpah/nato_otan) (2022-04-30)
+- [Euroopan särkynyt sydän](https://jihuu.github.io/puhpah/euroopan_sarkynyt_sydan) (2022-06-03)
